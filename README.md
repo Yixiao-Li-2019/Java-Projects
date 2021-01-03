@@ -1,2 +1,2 @@
 # Java-Projects
-Record of miscellaneous Java projects.
+Record of Java projects.
